@@ -4,7 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zadran1&label=Profile%20views&color=0e75b6&style=flat" alt="zadran1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zadran1" alt="zadran1" /></a> </p>
+<h1>
+  My Work:
 
+  </h1>
+  
+  <img src="https://raw.githubusercontent.com/ProgrammerGaurav/programmergaurav/master/images/dino.gif" alt="My Work">
+  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
